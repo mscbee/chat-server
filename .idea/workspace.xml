@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4c0a556-6a3c-49a1-895e-05f0f0e05f3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chat-server" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bOj5WOpgcMSO183KuleeJZbbOx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.learning.Main" />
+      <module name="chat-server" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4c0a556-6a3c-49a1-895e-05f0f0e05f3e" name="Default Changelist" comment="" />
+      <created>1588509851840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588509851840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-36" y="-875" key="#Project_Structure" timestamp="1588520879928">
+      <screen x="-115" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-36" y="-875" key="#Project_Structure/0.0.1680.1050/-115.-1080.1920.1080@-115.-1080.1920.1080" timestamp="1588520879928" />
+    <state width="916" height="297" key="GridCell.Tab.0.bottom" timestamp="1588536523280">
+      <screen x="-115" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="916" height="297" key="GridCell.Tab.0.bottom/0.0.1680.1050/-115.-1080.1920.1080@-115.-1080.1920.1080" timestamp="1588536523280" />
+    <state width="916" height="297" key="GridCell.Tab.0.center" timestamp="1588536523276">
+      <screen x="-115" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="916" height="297" key="GridCell.Tab.0.center/0.0.1680.1050/-115.-1080.1920.1080@-115.-1080.1920.1080" timestamp="1588536523276" />
+    <state width="916" height="297" key="GridCell.Tab.0.left" timestamp="1588536523274">
+      <screen x="-115" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="916" height="297" key="GridCell.Tab.0.left/0.0.1680.1050/-115.-1080.1920.1080@-115.-1080.1920.1080" timestamp="1588536523274" />
+    <state width="916" height="297" key="GridCell.Tab.0.right" timestamp="1588536523278">
+      <screen x="-115" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="916" height="297" key="GridCell.Tab.0.right/0.0.1680.1050/-115.-1080.1920.1080@-115.-1080.1920.1080" timestamp="1588536523278" />
+    <state x="-115" y="-906" key="new project wizard" timestamp="1588533065809">
+      <screen x="-115" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-115" y="-906" key="new project wizard/0.23.1680.969/-115.-1057.1920.1057@-115.-1057.1920.1057" timestamp="1588533065809" />
+  </component>
+</project>
